@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hello there I'm Philippe 👋
+I'm a meticulous Web Developer with 2 years of experience, with a passion for computers and development, mainly in Python and JavaScript. Knowledge in both areas hardware and software, focusing my attention towards software and always leveling my skills as much as I can. Teamwork, respect, helping others those qualities are present in my work optic. Equipped with a front-end and back-end skillset. Able to self-manage during independent projects.
+
+### 🔭 I’m currently working on...
+- [Skeinera](https://skeinera.com/), mostly working on the website, to make sure it's fast, secure and looking good.
+- Personal projects, work on ideas to get better with the technologies I'm learning or just making something fun.
+
+### 🌱 I’m currently learning...
+- React.js / Next.js
+- Typescript
+- GraphQL
+- Get better at UI / UX.
+
+### 📫 How to reach me:
+- Via e-mail phennaux115@gmail.com
+- Via LinkedIn](https://www.linkedin.com/in/phennaux115/)
 
 <!--
 **phennaux/phennaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
