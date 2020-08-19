@@ -13,7 +13,7 @@ I'm a meticulous Web Developer with 2 years of experience, with a passion for co
 
 ### 📫 How to reach me:
 - Via e-mail phennaux115@gmail.com
-- Via LinkedIn](https://www.linkedin.com/in/phennaux115/)
+- [Via LinkedIn](https://www.linkedin.com/in/phennaux115/)
 
 <!--
 **phennaux/phennaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
